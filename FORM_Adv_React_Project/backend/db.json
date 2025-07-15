@@ -1,0 +1,39 @@
+{
+  "opinions": [
+    {
+      "id": 1751302435804,
+      "votes": 5,
+      "userName": "Shridhar Bhande",
+      "title": "Form Action is React v19",
+      "body": "Form Action is introduced in React v19"
+    },
+    {
+      "id": 1751300852474,
+      "votes": 0,
+      "userName": "Shridhar",
+      "title": "Bhande",
+      "body": "React is Great! Keep doing a great work. Keep Rocking!"
+    },
+    {
+      "id": 1751299627887,
+      "votes": 0,
+      "userName": "aaaaaaaaaaaaa",
+      "title": "asdsadasd",
+      "body": "sdsadasdsd"
+    },
+    {
+      "id": 1,
+      "userName": "Maximilian Schwarzmüller",
+      "title": "Do yourself a favor and learn React!",
+      "body": "React is an amazing JavaScript library!\n\nDespite all it's shortcomings.",
+      "votes": 0
+    },
+    {
+      "id": 2,
+      "userName": "Maximilian Schwarzmüller",
+      "title": "React has more depth than you might first think!",
+      "body": "React is a great library to learn, but it's not just about the basics. Dive deeper!\nFor example with this course!",
+      "votes": 0
+    }
+  ]
+}
